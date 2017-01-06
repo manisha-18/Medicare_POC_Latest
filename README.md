@@ -1,4 +1,4 @@
-# Medicare_POC_Latest(SpringBoot+Gradle+MongoDB)
+# Medicare_POC_Latest(SpringBoot+Maven+MongoDB)
 
 #Instructions to run the project
 
